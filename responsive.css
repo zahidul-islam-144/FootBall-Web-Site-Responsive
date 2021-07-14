@@ -140,6 +140,7 @@
   }
   .highlights {
     height: 100%;
+    padding-bottom: 25px;
     background-color: #061d48;
     display: flex;
     flex-direction: column;
